@@ -578,7 +578,15 @@ LinkedIn URL - https://www.linkedin.com/in/veera-solaiyappan-a5182418a/
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+## Connect with Fawaz C P
 
+- Mail - fawazmayyil80@gmail.com
+- My location: Dubai, UAE
+- My skill - Cloud engineer
+
+<a href="https://www.linkedin.com/in/fawaz-c-p-5618b1183/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
